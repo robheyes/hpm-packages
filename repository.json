@@ -7,7 +7,11 @@
       "name": "LIFX Master app and drivers",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/robheyes/lifxcode/master/packageManifest.json",
-      "description": "LIFX Lan Protocol app and drivers for Hubitat Elevation"
+      "description": "LIFX Lan Protocol app and drivers for Hubitat Elevation",
+      "tags": [
+         "Lights & Switches",
+         "LAN"
+      ]
     }
   ]
 }
