@@ -1,4 +1,13 @@
 {
   "author": "Rob Heyes",
-  "gitHubUrl": "https://github.com/robheyes"
+  "gitHubUrl": "https://github.com/robheyes",
+  "packages": [
+    {
+      "id": "345605ee-d6c8-4170-8262-9cca6134020e",
+      "name": "LIFX Master app and drivers",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/robheyes/lifxcode/master/packageManifest.json",
+      "description": "LIFX Lan Protocol app and drivers for Hubitat Elevation"
+    }
+  ]
 }
